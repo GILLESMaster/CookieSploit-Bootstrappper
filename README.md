@@ -1,2 +1,2 @@
 # CookieSploit-Bootstrappper
-Gud Codin
+this is the bootstrapper repository
